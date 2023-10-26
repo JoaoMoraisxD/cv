@@ -1,8 +1,13 @@
 .foto {
     width: 125px;
-    border-radius: 50px;
+    border-radius: 40px;
+    margin-bottom: 12px;
+    margin-left: 20px;
 }
 
+.nome{
+margin:5px;
+}
 
 .carousel-content {
     border-radius: 7px;
